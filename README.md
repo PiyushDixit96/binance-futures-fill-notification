@@ -7,7 +7,6 @@
 - Support One-Way Mode and Hedge Mode.
 - `Free trial` available, you can test before use.
 - `Cheap` monthly subscription.
-- You can request for `PERSONAL CUSTOMIZATION`.
 
 ## ✨ Type of Notification ✨
 > When Position Open
