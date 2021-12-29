@@ -16,7 +16,7 @@ Currency - USDT
 Amount - 2
 ```
 - #### Please verify My Nickname is `killer`
-- #### You can also use Binance App and Scan QR Code to faster payment.
+- #### You can also use Binance App and Scan QR Code for faster payment.
 
 > ![BinancePayQR](https://user-images.githubusercontent.com/79581397/147665873-7a109e3a-446e-4434-9df8-0680e280a3f1.png)
 
