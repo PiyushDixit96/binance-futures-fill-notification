@@ -1,6 +1,6 @@
 # Binance USDT-M Futures Position Update Notification [PAID]
 ### Telegram notification when any update on future position.
-> ### Use Futures Position Notification Bot: [@FutureNotifier_bot](https://t.me/FutureNotifier_bot)
+> ### Use Futures Position Notification ChatBot: [@Binancechatbot](https://t.me/FutureNotifier_bot) to know and subscribe our services.
 ##  ✨ Features  ✨
 
 - Quick Notification on position update.
