@@ -1,16 +1,17 @@
-# Binance USDT-M Futures Position Update Notification [PAID]
-### Telegram notification when any update on futures position.
-> ### Use Futures Position Notification ChatBot: [@Binancechatbot](https://t.me/Binancechatbot) to know and subscribe our services.
+# Binance USDT-M Futures Position Update Notifications [PAID]
+### Telegram notifications when any update on futures position.
+> ### Use Futures Position Notifications ChatBot: [@Binancechatbot](https://t.me/Binancechatbot) to know and subscribe our services.
 ##  ✨ Features  ✨
 
-- Quick Notification on position update.
+- Quick Notifications on position update.
 - Support One-Way Mode and Hedge Mode.
 - `3-day Free trial` available, you can test before use.
 - `Cheap` monthly subscription.
-- You can also `Customize` your `Notification`.
+- You can also `Customize` and `Limit` your `Notifications` lines (See Type of Notifications).
+- You can `Enable` or `Disable` Unwanted `Notifications`.
 - Privacy Proof: Your trades, positions, balances, or account `Logs are Not Saved`.
 
-## ✨ Type of Notification ✨
+## ✨ Type of Notifications ✨
 > When Position Open
 ```sh
 🔵 1000SHIBUSDT Initial Entry OPENED
