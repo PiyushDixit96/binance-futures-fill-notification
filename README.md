@@ -4,61 +4,42 @@
 ##  ✨ Features  ✨
 
 - Quick Notifications on position update.
-- Support One-Way Mode and Hedge Mode.
-- `3-day Free trial` available, you can test before use.
+- `3-day Free trial` available. 📢 No Payment Required.
 - `Cheap` monthly subscription.
-- You can also `Customize` and `Limit` your `Notifications` lines (See Type of Notifications).
-- You can `Enable` or `Disable` Unwanted `Notifications`.
+- You can 🛠 `Customize` your Message `Notifications` lines.
+- You can `🔔 Enable` or `🔕 Disable` Notifications As per your Choice.
+- Support One-Way Mode and Hedge Mode.
 - Privacy Proof: Your trades, positions, balances, or account `Logs are Not Saved`.
 
-## ✨ Type of Notifications ✨
-> When Position Open
-```sh
-🔵 1000SHIBUSDT Initial Entry OPENED
-Position :  SHORT x20 Isolated
-Entry Price :  0.021795
-Size :  7254.0
-Last Filled Price :  0.021795
-Last Filled Size :  7254
-Fee :  0.00007639 BNB
-Unrealized PnL :  0.0145080
-```
-```sh
-🟣 1000SHIBUSDT ReEntry OPENED
-Position :  SHORT x20 Isolated
-Entry Price :  0.021795
-Size :  16258.0
-Last Filled Price :  0.021795
-Last Filled Size :  9004
-Fee :  0.00004843 BNB
-Unrealized PnL :  0.03251600
-```
+## ✨ Screenshot of Notifications ✨
+> Fresh Position Opened
 
-> When Position Close
-```sh
-🟢 1000SHIBUSDT Partially CLOSED
-Position :  SHORT x20 Isolated
-Price :  0.021560
-Size :  3110
-Size Remains :  38115.0
-Fee :  0.00006482 BNB
-PnL :  0.85793625 (25.60297 %)
-```
-```sh
-✅ 1000SHIBUSDT Fully CLOSED
-Position :  SHORT x20 Isolated
-Price :  0.021563
-Size :  38115
-Fee :  0.32874949 USDT
-PnL :  10.40020174 (25.32115 %)
-```
-```sh
-🔴 DASHUSDT Fully LIQUIDATED
-Position :  LONG x50 Isolated
-Price :  81.54
-Size :  1.212
-PnL (%) :  -1.11504000 (-74.41 %)
-```
+![Fresh Position Opened](https://telegra.ph/file/e11fa3054788b6c47f4fe.jpg)
+
+> Reentry on Previously Opened Position
+
+![Reentry on Previously Opened Position](https://telegra.ph/file/59645ac8878286bd7fb82.jpg)
+
+> Opened Position Partially CLOSED
+
+![Opened Position Partially CLOSED](https://telegra.ph/file/e619559e251a35ff10877.jpg)
+
+> Opened Position Fully CLOSED and Total PNL of Current Position
+
+![Opened Position Fully CLOSED and Total PNL of Current Position](https://telegra.ph/file/d06e08c7d2016c1361e1c.jpg)
+
+> Opened Position Partially LIQUIDATED
+
+![Opened Position Partially LIQUIDATED](https://telegra.ph/file/f1fe27e84fcea795221eb.jpg)
+
+> Opened Position Fully LIQUIDATED
+
+![Opened Position Fully LIQUIDATED](https://telegra.ph/file/6457846e601d4c8bd61a6.jpg)
+
+> Previous Day Daily Total PNL at Midnight
+
+![Previous Day Daily Total PNL at Midnight](https://telegra.ph/file/238484fc06718fb1d6948.jpg)
+
 
 ## ✨ Contact Me ✨
 👤 **Piyush Dixit**
