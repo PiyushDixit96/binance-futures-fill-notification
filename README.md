@@ -26,7 +26,7 @@
 
 > Opened Position Fully CLOSED and Total PNL of Current Position
 
-![Opened Position Fully CLOSED and Total PNL of Current Position](https://telegra.ph/file/d06e08c7d2016c1361e1c.jpg)
+![Opened Position Fully CLOSED and Total PNL of Current Position](https://telegra.ph/file/ac7ae6bc611aebb9ec65b.jpg)
 
 > Opened Position Partially LIQUIDATED
 
@@ -34,11 +34,15 @@
 
 > Opened Position Fully LIQUIDATED
 
-![Opened Position Fully LIQUIDATED](https://telegra.ph/file/6457846e601d4c8bd61a6.jpg)
+![Opened Position Fully LIQUIDATED](https://telegra.ph/file/b5a67d06de64a6dd3f689.jpg)
 
 > Previous Day Daily Total PNL at Midnight
 
-![Previous Day Daily Total PNL at Midnight](https://telegra.ph/file/238484fc06718fb1d6948.jpg)
+![Previous Day Daily Total PNL at Midnight](https://telegra.ph/file/68ffe629906b6e2a50860.jpg)
+
+> Another Position Related Notification
+
+![Another Position Related Notification](https://telegra.ph/file/76012d458de270adb2b2e.jpg)
 
 
 ## ✨ Contact Me ✨
