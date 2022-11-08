@@ -10,7 +10,8 @@
 - You can `🔔 Enable` or `🔕 Disable` Notifications As per your Choice.
 - Support One-Way Mode and Hedge Mode.
 - Privacy Proof: Your trades, positions, balances, or account `Logs are Not Saved`.
-- Can transfer `Notifications to Discord`
+- Bot have Option to show `Size in USDT/BUSD`.
+- `Notifications to Telegram or Discord`.
 
 ## ✨ Screenshot of Notifications ✨
 > Fresh Position Opened
